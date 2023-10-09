@@ -1,0 +1,41 @@
+.appContainer {
+  background-color: #f5d0fe;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.textContaianer {
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  align-self: center;
+  text-align: center;
+}
+.heading {
+  font-size: 26px;
+  font-family: 'Roboto';
+}
+.saveBtn {
+  background-color: #d946ef;
+  margin-left: 10px;
+  cursor: pointer;
+  color: white;
+  border: 4px;
+  height: 30px;
+  border-radius: 4px;
+  outline: none;
+}
+.input {
+  height: 24px;
+}
+.paratext {
+  display: flex;
+  justify-content: center;
+}
+.para {
+  margin-top: 4px;
+  font-family: 'Roboto';
+}
